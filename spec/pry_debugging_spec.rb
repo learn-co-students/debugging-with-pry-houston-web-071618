@@ -1,5 +1,5 @@
 require 'pry'
-require '.debugging-with-pry-houston-web-071618/lib/pry_debugging.rb'
+require 'debugging-with-pry-houston-web-071618/lib/pry_debugging.rb'
 
 describe "#plus_two" do 
 	it "takes in a number as an argument and returns the sum of that number and 2" do
